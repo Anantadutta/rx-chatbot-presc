@@ -1,0 +1,9 @@
+anthropic
+streamlit
+rapidfuzz
+fastapi
+uvicorn
+python-multipart
+google-genai
+truststore
+pymongo
